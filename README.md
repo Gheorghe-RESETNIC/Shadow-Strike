@@ -23,3 +23,9 @@ ShadowStrike est une suite d'outils de pentest développée en Python, qui perme
  - python3 main.py -t <adresse_IP_cible>
  
 2.Suivez les instructions du menu pour effectuer des audits, lancer des exploits ou générer un rapport.
+## Licence
+
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+
+**Avertissement:** Cet outil est fourni gratuitement et ne doit être utilisé que dans un but éthique et légal, tel que les tests de sécurité autorisés ou les audits de système. L'utilisation de cet outil à des fins malveillantes est strictement interdite. L'auteur de ce logiciel n'assume aucune responsabilité pour les dommages ou les conséquences résultant de son utilisation abusive ou illégale.
+
