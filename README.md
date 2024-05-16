@@ -6,12 +6,20 @@ ShadowStrike est une suite d'outils de pentest développée en Python, qui perme
 - Génération de rapports : Génère un rapport détaillé des résultats de l'audit et des exploits sous forme de fichier PDF.
 # Installation
 Clonez ce dépôt vers votre machine locale :
+
  - git clone https://github.com/Gheorghe-RESETNIC/Shadow-Strike
+   
 Accédez au répertoire du projet :
+
  - cd ShadowStrike
+   
 Assurez-vous d'avoir les dépendances requises installées. Vous pouvez les installer en exécutant :
+
  - pip install -r requirements.txt
+   
 # Utilisation
 Exécutez le script principal main.py avec l'option -t pour spécifier la cible :
+
  - python3 main.py -t <adresse_IP_cible>
+ 
 Suivez les instructions du menu pour effectuer des audits, lancer des exploits ou générer un rapport.
