@@ -1,0 +1,6 @@
+nmap==7.94
+nikto==2.1.6
+dirb==2.22
+hydra==9.2
+sqlmap==1.5.3
+fpdf==1.7.2
